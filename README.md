@@ -7,5 +7,5 @@
 6. <a href = "https://github.com/2303a51836/23CSBTB27-28/blob/main/2303a51836_LAB4.ipynb">Lab04</a>
 7. <a href = "https://github.com/2303a51836/23CSBTB27-28/blob/main/lab_5.ipynb">Lab05</a>
 8. <a href = "https://github.com/2303a51836/23CSBTB27-28/blob/main/Lab_06.ipynb">Lab06</a>
-9. <a href = "https://github.com/2303a51836/23CSBTB27-28/blob/main/Untitled5.ipynb">Ass06</a>            
+9. <a href = "https://github.com/2303a51836/23CSBTB27-28/blob/main/Untitled5.ipynb">Ass06</a>         
 10.<a href = "https://github.com/2303a51836/23CSBTB27-28/blob/main/Untitled6.ipynb">Ass07</a>
